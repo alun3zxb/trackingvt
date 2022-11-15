@@ -1,0 +1,18 @@
+{
+    "name": "alun/trackingvt",
+    "description": "51tracking官方库v3版本  未做任何修改  接外包：微信：alun01  417080636@qq.com",
+    "autoload": {
+        "psr-4": {
+            "Tracking\\": "src/Tracking"
+        }
+    },
+    "authors": [
+        {
+            "name": "alun3zxb",
+            "email": "417080636@qq.com"
+        }
+    ],
+    "require": {
+
+    }
+}
